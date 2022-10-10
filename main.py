@@ -18,7 +18,7 @@ for i in range(20):
     data = data_original['Price']
     for index in range(len(data)):
         
-        print(data[index])
+        print(data[0])
         
       
     
