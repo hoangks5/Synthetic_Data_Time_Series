@@ -20,8 +20,6 @@ for i in range(20):
         
         print(data[index])
         
-       '''  data[index] += data[index]*random.randint(-30,30)/100
-    data_original['Price'] = data
-    data_original.to_csv(folder+'/'+folder+'_fake('+str(i+1)+').csv',index=False) '''
+      
     
     
