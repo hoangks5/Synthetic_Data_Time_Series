@@ -7,7 +7,7 @@ data_source = 'AAPL Historical Data.csv'
 os.mkdir(data_source.split('.')[0])
 data_original = pd.read_csv(data_source)
 for i in range(20):
-    index_random = 
+    index_random = random.randint(0,len(data_original['Date'])-60)
     data = data_original['Price']
     for index in range(len(data)):
         data[index] += data[index]*random.randint(-30,30)/100
