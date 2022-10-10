@@ -1,4 +1,4 @@
-import gretel
+import random
 import pandas as pd
 
 data_source = 'AAPL Historical Data.csv'
