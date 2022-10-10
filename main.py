@@ -11,9 +11,9 @@ for i in range(20):
     index_random = random.randint(0,len(data_original['Date'])-60)
     data_original = data_original[index_random:index_random+60]
     
-    for index in range(len(data)):
-        data[index] += data[index]*random.randint(-30,30)/100
-    data_original['Price'] = data
-    data_original.to_csv('./train.csv',index=False)
+    #for index in range(len(data)):
+     #   data[index] += data[index]*random.randint(-30,30)/100
+    #data_original['Price'] = data
+    #data_original.to_csv('./train.csv',index=False)
     
     
