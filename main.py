@@ -5,7 +5,10 @@ import os
 ### Create file csv data from sample
 data_source = 'AAPL Historical Data.csv'
 folder = data_source.split('.')[0]
-os.mkdir(folder)
+try:
+    os.mkdir(folder)
+except:
+    pass
 data_original = pd.read_csv(data_source)
 for i in range(20):
     index_random = random.randint(0,len(data_original['Date'])-60)
