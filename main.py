@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 ### Create file csv data from sample
-data_source = 'BTC_USD Bitfinex Historical Data.csv'
+data_source = 'Crude Oil WTI Futures Historical Data.csv'
 folder = data_source.split('.')[0]
 try:
     os.mkdir(folder)
