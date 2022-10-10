@@ -16,9 +16,9 @@ for i in range(20):
     data_original.to_csv(folder+'/'+folder+'('+str(i+1)+').csv',index=False)
     
     data = data_original['Price']
-    for index in range(len(data_original)):
-       data_original[index] += data_original[index]*random.randint(-30,30)/100
+    for index in range(len(data)):
+       data[index] += data[index]*random.randint(-30,30)/100
     data_original['Price'] = data
-    #data_original.to_csv('./train.csv',index=False)
+    data_original.to_csv('./train.csv',index=False)
     
     
