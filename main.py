@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 ### Create file csv data from sample
-data_source = 'XAU.csv'
+data_source = 'Sliver.csv'
 folder = data_source.split('.')[0]
 try:
     os.mkdir(folder)
