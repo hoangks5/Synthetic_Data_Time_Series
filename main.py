@@ -22,4 +22,4 @@ for i in range(20):
     data_original_new['Price'] = data
     data_original_new.to_csv(folder+'/'+folder+'_fake('+str(i+1)+').csv',index=False)
     
-    
+            
