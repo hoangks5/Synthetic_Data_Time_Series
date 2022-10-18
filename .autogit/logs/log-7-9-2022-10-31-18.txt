@@ -1,0 +1,56 @@
+-------------------- Auto-Git Log --------------------
+Fri Oct 07 2022 10:31:18 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+
+
+Deleted files:
+* __init__.py
+* constraints/__init__.py
+* constraints/base.py
+* constraints/errors.py
+* constraints/tabular.py
+* constraints/utils.py
+* data/got_families/character_families.csv
+* data/got_families/characters.csv
+* data/got_families/families.csv
+* data/got_families/metadata.json
+* demo.py
+* errors.py
+* evaluation.py
+* lite/__init__.py
+* lite/tabular.py
+* metadata/__init__.py
+* metadata/dataset.py
+* metadata/errors.py
+* metadata/table.py
+* metadata/utils.py
+* metadata/visualization.py
+* metrics/__init__.py
+* metrics/demos.py
+* metrics/relational.py
+* metrics/tabular.py
+* metrics/timeseries.py
+* relational/__init__.py
+* relational/base.py
+* relational/hma.py
+* sampling/__init__.py
+* sampling/tabular.py
+* sdv.py
+* tabular/__init__.py
+* tabular/base.py
+* tabular/copulagan.py
+* tabular/copulas.py
+* tabular/ctgan.py
+* tabular/utils.py
+* timeseries/__init__.py
+* timeseries/base.py
+* timeseries/deepecho.py
+* utils.py
+
+
+Renamed files:

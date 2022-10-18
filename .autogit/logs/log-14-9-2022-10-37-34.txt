@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Fri Oct 14 2022 10:37:34 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* datanew.csv
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

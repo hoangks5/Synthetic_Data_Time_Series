@@ -1,0 +1,55 @@
+-------------------- Auto-Git Log --------------------
+Tue Oct 11 2022 14:08:09 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* main.py
+
+
+Created files:
+* XAU/XAU(1).csv
+* XAU/XAU(10).csv
+* XAU/XAU(11).csv
+* XAU/XAU(12).csv
+* XAU/XAU(13).csv
+* XAU/XAU(14).csv
+* XAU/XAU(15).csv
+* XAU/XAU(16).csv
+* XAU/XAU(17).csv
+* XAU/XAU(18).csv
+* XAU/XAU(19).csv
+* XAU/XAU(2).csv
+* XAU/XAU(20).csv
+* XAU/XAU(3).csv
+* XAU/XAU(4).csv
+* XAU/XAU(5).csv
+* XAU/XAU(6).csv
+* XAU/XAU(7).csv
+* XAU/XAU(8).csv
+* XAU/XAU(9).csv
+* XAU/XAU_fake(1).csv
+* XAU/XAU_fake(10).csv
+* XAU/XAU_fake(11).csv
+* XAU/XAU_fake(12).csv
+* XAU/XAU_fake(13).csv
+* XAU/XAU_fake(14).csv
+* XAU/XAU_fake(15).csv
+* XAU/XAU_fake(16).csv
+* XAU/XAU_fake(17).csv
+* XAU/XAU_fake(18).csv
+* XAU/XAU_fake(19).csv
+* XAU/XAU_fake(2).csv
+* XAU/XAU_fake(20).csv
+* XAU/XAU_fake(3).csv
+* XAU/XAU_fake(4).csv
+* XAU/XAU_fake(5).csv
+* XAU/XAU_fake(6).csv
+* XAU/XAU_fake(7).csv
+* XAU/XAU_fake(8).csv
+* XAU/XAU_fake(9).csv
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Tue Oct 11 2022 09:52:44 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(1).csv
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

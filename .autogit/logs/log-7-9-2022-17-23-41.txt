@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+Fri Oct 07 2022 17:23:41 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* main.ipynb
+* original.csv
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

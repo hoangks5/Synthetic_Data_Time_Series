@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+Mon Oct 10 2022 14:07:05 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* main.ipynb
+* original.csv
+* train.csv
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

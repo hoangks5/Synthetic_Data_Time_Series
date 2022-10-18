@@ -1,0 +1,45 @@
+-------------------- Auto-Git Log --------------------
+Fri Oct 07 2022 10:39:59 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+
+
+Deleted files:
+* rdt/__init__.py
+* rdt/errors.py
+* rdt/hyper_transformer.py
+* rdt/performance/__init__.py
+* rdt/performance/datasets/__init__.py
+* rdt/performance/datasets/base.py
+* rdt/performance/datasets/boolean.py
+* rdt/performance/datasets/categorical.py
+* rdt/performance/datasets/datetime.py
+* rdt/performance/datasets/numerical.py
+* rdt/performance/datasets/pii.py
+* rdt/performance/datasets/text.py
+* rdt/performance/datasets/utils.py
+* rdt/performance/performance.py
+* rdt/performance/profiling.py
+* rdt/transformers/__init__.py
+* rdt/transformers/addons/README.md
+* rdt/transformers/addons/addons_setup.py
+* rdt/transformers/addons/identity/__init__.py
+* rdt/transformers/addons/identity/config.json
+* rdt/transformers/addons/identity/identity.py
+* rdt/transformers/base.py
+* rdt/transformers/boolean.py
+* rdt/transformers/categorical.py
+* rdt/transformers/datetime.py
+* rdt/transformers/null.py
+* rdt/transformers/numerical.py
+* rdt/transformers/pii/__init__.py
+* rdt/transformers/pii/anonymizer.py
+* rdt/transformers/text.py
+* rdt/transformers/utils.py
+
+
+Renamed files:

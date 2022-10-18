@@ -1,0 +1,51 @@
+-------------------- Auto-Git Log --------------------
+Mon Oct 17 2022 10:40:20 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* data(1).csv
+* data(10).csv
+* data(11).csv
+* data(12).csv
+* data(13).csv
+* data(14).csv
+* data(15).csv
+* data(16).csv
+* data(17).csv
+* data(18).csv
+* data(19).csv
+* data(2).csv
+* data(20).csv
+* data(21).csv
+* data(22).csv
+* data(23).csv
+* data(24).csv
+* data(25).csv
+* data(26).csv
+* data(27).csv
+* data(28).csv
+* data(29).csv
+* data(3).csv
+* data(30).csv
+* data(31).csv
+* data(32).csv
+* data(33).csv
+* data(34).csv
+* data(35).csv
+* data(36).csv
+* data(4).csv
+* data(5).csv
+* data(6).csv
+* data(7).csv
+* data(8).csv
+* data(9).csv
+* test.ipynb
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

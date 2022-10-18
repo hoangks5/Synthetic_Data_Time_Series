@@ -1,0 +1,55 @@
+-------------------- Auto-Git Log --------------------
+Mon Oct 10 2022 16:19:51 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* main.py
+
+
+Created files:
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(1).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(10).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(11).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(12).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(13).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(14).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(15).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(16).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(17).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(18).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(19).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(2).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(20).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(3).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(4).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(5).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(6).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(7).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(8).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data(9).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(1).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(10).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(11).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(12).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(13).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(14).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(15).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(16).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(17).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(18).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(19).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(2).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(20).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(3).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(4).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(5).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(6).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(7).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(8).csv
+* Crude Oil WTI Futures Historical Data/Crude Oil WTI Futures Historical Data_fake(9).csv
+
+
+Deleted files:
+
+
+Renamed files:

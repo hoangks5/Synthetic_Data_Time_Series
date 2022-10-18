@@ -1,0 +1,60 @@
+-------------------- Auto-Git Log --------------------
+Fri Oct 07 2022 10:35:48 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+
+
+Deleted files:
+* sdv/__init__.py
+* sdv/__pycache__/__init__.cpython-310.pyc
+* sdv/__pycache__/sdv.cpython-310.pyc
+* sdv/constraints/__init__.py
+* sdv/constraints/__pycache__/__init__.cpython-310.pyc
+* sdv/constraints/__pycache__/base.cpython-310.pyc
+* sdv/constraints/base.py
+* sdv/constraints/errors.py
+* sdv/constraints/tabular.py
+* sdv/constraints/utils.py
+* sdv/data/got_families/character_families.csv
+* sdv/data/got_families/characters.csv
+* sdv/data/got_families/families.csv
+* sdv/data/got_families/metadata.json
+* sdv/demo.py
+* sdv/errors.py
+* sdv/evaluation.py
+* sdv/lite/__init__.py
+* sdv/lite/tabular.py
+* sdv/metadata/__init__.py
+* sdv/metadata/dataset.py
+* sdv/metadata/errors.py
+* sdv/metadata/table.py
+* sdv/metadata/utils.py
+* sdv/metadata/visualization.py
+* sdv/metrics/__init__.py
+* sdv/metrics/demos.py
+* sdv/metrics/relational.py
+* sdv/metrics/tabular.py
+* sdv/metrics/timeseries.py
+* sdv/relational/__init__.py
+* sdv/relational/base.py
+* sdv/relational/hma.py
+* sdv/sampling/__init__.py
+* sdv/sampling/tabular.py
+* sdv/sdv.py
+* sdv/tabular/__init__.py
+* sdv/tabular/base.py
+* sdv/tabular/copulagan.py
+* sdv/tabular/copulas.py
+* sdv/tabular/ctgan.py
+* sdv/tabular/utils.py
+* sdv/timeseries/__init__.py
+* sdv/timeseries/base.py
+* sdv/timeseries/deepecho.py
+* sdv/utils.py
+
+
+Renamed files:
