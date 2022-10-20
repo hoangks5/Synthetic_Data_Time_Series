@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Thu Oct 20 2022 15:30:44 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+
+
+Deleted files:
+* alldata_skab.csv
+
+
+Renamed files:
