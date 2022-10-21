@@ -1,0 +1,66 @@
+-------------------- Auto-Git Log --------------------
+Fri Oct 21 2022 15:17:21 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* test.ipynb
+
+
+Created files:
+* .autogit/logs/log-21-9-2022-15-16-49.txt
+* data/data(1095).csv
+* data/data(1270).csv
+* data/data(136).csv
+* data/data(1745).csv
+* data/data(1857).csv
+* data/data(2061).csv
+* data/data(2326).csv
+* data/data(2734).csv
+* data/data(2755).csv
+* data/data(3031).csv
+* data/data(3185).csv
+* data/data(3443).csv
+* data/data(3465).csv
+* data/data(353).csv
+* data/data(3674).csv
+* data/data(3842).csv
+* data/data(3951).csv
+* data/data(3985).csv
+* data/data(4161).csv
+* data/data(4285).csv
+* data/data(4359).csv
+* data/data(4660).csv
+* data/data(4671).csv
+* data/data(4679).csv
+* data/data(5171).csv
+* data/data(533).csv
+* data/data(5332).csv
+* data/data(5460).csv
+* data/data(5616).csv
+* data/data(5863).csv
+* data/data(6056).csv
+* data/data(6296).csv
+* data/data(6301).csv
+* data/data(6659).csv
+* data/data(6765).csv
+* data/data(7203).csv
+* data/data(7795).csv
+* data/data(7830).csv
+* data/data(7937).csv
+* data/data(8037).csv
+* data/data(8042).csv
+* data/data(821).csv
+* data/data(8444).csv
+* data/data(8697).csv
+* data/data(9304).csv
+* data/data(9369).csv
+* data/data(9397).csv
+* data/data(9514).csv
+* data/data(9529).csv
+* data/data(9653).csv
+
+
+Deleted files:
+
+
+Renamed files:
