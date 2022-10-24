@@ -1,2 +1,18 @@
-
-'link' : 'https://blog.orai.io'
+[
+    {
+       "data":{
+          "website": "<iframe src='https://heartex.com' width='100%' height='600px'/>"
+       }
+    },
+    {
+       "data":{
+          "website": "<iframe src='https://example.com' width='100%' height='600px'/>"
+       }
+    },
+    {
+       "data":{
+          "website": "<iframe src='https://labelstud.io' width='100%' height='600px'/>"
+       }
+    }
+ ]
+ 
