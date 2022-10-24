@@ -10,7 +10,7 @@ try:
 except:
     pass
 data_original = pd.read_csv(data_source)
-for i in range(20):
+for i in range(20): 
     index_random = random.randint(0,len(data_original['Date'])-60)
     data_original_new = data_original[index_random:index_random+60]
     data_original_new.to_csv(folder+'/'+folder+'('+str(i+1)+').csv',index=False)
