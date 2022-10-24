@@ -1,23 +1,16 @@
 [
     {
        "data":{
-          "img": "https://storage.googleapis.com/orailabelstudio/prod/project_604/person23_bacteria_85_jpeg.rf.8820932a080567359fc6bdd655b78ad3.jpg"
-       }
+          "img": "https://storage.googleapis.com/orailabelstudio/prod/project_604/person23_bacteria_85_jpeg.rf.8820932a080567359fc6bdd655b78ad3.jpg",
+          "img1": "https://storage.googleapis.com/orailabelstudio/prod/project_601/27-Male--L-View-_jpg.rf.6c847a8f1afa4da7d698df05acdcde67.jpg"
+        }
     },
     {
        "data":{
           "img": "https://storage.googleapis.com/orailabelstudio/prod/project_604/person14_bacteria_51_jpeg.rf.0c42cdacfc89def78988e0019f4cd49f.jpg"
-       }
-    },
-    {
-        "data":{
-           "img1": "https://storage.googleapis.com/orailabelstudio/prod/project_601/27-Male--L-View-_jpg.rf.6c847a8f1afa4da7d698df05acdcde67.jpg"
+            ,"img1": "https://storage.googleapis.com/orailabelstudio/prod/project_601/43-Male--A-View-_jpg.rf.6a285d4527109e23c1eeac9caf305c75.jpg"
         }
-     },
-     {
-        "data":{
-           "img1": "https://storage.googleapis.com/orailabelstudio/prod/project_601/43-Male--A-View-_jpg.rf.6a285d4527109e23c1eeac9caf305c75.jpg"
-        }
-     }
+    }
+  
  ]
  
