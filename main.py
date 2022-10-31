@@ -5,4 +5,5 @@ data_source = 'website_classification.csv'
 
 w = open('./data/data(1-4).csv','r',encoding='utf-8').read().splitlines()
 for i in w:
-    i.split(',')
+    a = i.split(',')
+    print(a[1])
