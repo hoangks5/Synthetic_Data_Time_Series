@@ -12,6 +12,7 @@ with open(data_source,'r',encoding='utf-8') as f:
 s = st.splitlines()
 for i in s:
     t = i.split(',')
-    print(t[3])
+    if t[3] in frame_new:
+        print(i)
     
             
