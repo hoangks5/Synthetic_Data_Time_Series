@@ -3,7 +3,4 @@ import pandas as pd
 import os
 data_source = 'website_classification.csv'
 
-w = open('./data/data(1-4).csv','r',encoding='utf-8')
-for i in w:
-    print(i)
-            
+w = open('./data/data(1-4).csv','r',encoding='utf-8').read().splitlines()
