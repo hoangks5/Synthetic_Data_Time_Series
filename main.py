@@ -17,7 +17,7 @@ for i in s:
         a.append(i)
         
 strings = '\n'.join(a)
-w = open('./data/data(1-4','w',encoding='utf-8')
+w = open('./data/data(1-4).csv','w',encoding='utf-8')
 w.write(strings)
 w.close()    
             
