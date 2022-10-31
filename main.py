@@ -10,4 +10,4 @@ for i in w:
     json_new = """{"website": "<iframe src='"""+a+"""'width='100%' height='600px'/>"}"""
     
     with open("./data/data1-4/data("+str(random.randint(1,99999))+").json", "w") as outfile:
-        outfile.write(json_object)
+        outfile.write(json_new)
