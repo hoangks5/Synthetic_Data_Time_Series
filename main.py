@@ -15,5 +15,9 @@ for i in s:
     t = i.split(',')
     if t[3] in frame_new:
         a.append(i)
-    
+        
+strings = '\n'.join(a)
+w = open('./data/data(1-4','w',encoding='utf-8')
+w.write(string)
+w.close()    
             
