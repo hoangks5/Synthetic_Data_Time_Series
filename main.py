@@ -10,4 +10,5 @@ for i in w:
     json_new = {
     "website": "<iframe src='"+a+"' width='100%' height='600px'/>"
 }
-    j = json.dump(json_new, fp)
+    j = json.dumps(json_new)
+    print(j)
