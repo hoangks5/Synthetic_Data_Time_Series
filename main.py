@@ -19,5 +19,5 @@ for i in s:
 strings = '\n'.join(a)
 w = open('./data/data(1-4).csv','w',encoding='utf-8')
 w.write(strings)
-w.close()  
+w.close()
             
