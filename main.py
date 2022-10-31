@@ -8,5 +8,5 @@ for i in w:
     a = i.split(',')
     print(a[1])
     json_new = {
-    "website": "<iframe src='{a}' width='100%' height='600px'/>"
+    "website": "<iframe src='"+a+"' width='100%' height='600px'/>"
 }
