@@ -18,6 +18,6 @@ for i in s:
         
 strings = '\n'.join(a)
 w = open('./data/data(1-4','w',encoding='utf-8')
-w.write(string)
+w.write(strings)
 w.close()    
             
